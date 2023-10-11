@@ -1,7 +1,7 @@
 ---
 title: "Universal radial approximation in spaces of analytic functions"
 collection: publications
-permalink: /publication/001_Universal_radial_approximation_in_spaces_of_analytic_functions
+permalink: /publication/005_Universal_radial_approximation_in_spaces_of_analytic_functions
 date: 2019-10-01
 #venue: 'Journal of Open Source Software'
 #paperurl: '/files/pdf/research/BayesPostEst.pdf'
