@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lema"
+title                    : "Konstantinos Maronikolakis"
 title_separator          : "-"
 name                     : &name "Konstantinos Maronikolakis"
-description              : &description "Postdoc in Political Science"
+description              : &description "PhD studetn in Mathematics"
 url                      : https://conmaro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "conmaro/conmaro.github.io"
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lefteris Maronikolakis"
-  avatar           : "my.jpg"
-  bio              : "Software Developer"
-  location         : "Athens/Greece"
+  name             : "Konstantinos Maronikolakis"
+  avatar           : "profile.jpg"
+  bio              : "PhD student"
+  location         : "University College Dublin"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/"
-  googlescholar    : "https://scholar.google.com/"
-  email            : "lefterism@gmail.com"
+  orcid            : "https://orcid.org/0000-0001-7432-7901"
+  googlescholar    : "https://scholar.google.com/citations?user=QjWMYIcAAAAJ&hl=en&oi=ao"
+  email            : "conmaron@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
