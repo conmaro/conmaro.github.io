@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lema"
 title_separator          : "-"
-name                     : &name "Lefteris Maronikolakis"
+name                     : &name "Konstantinos Maronikolakis"
 description              : &description "Postdoc in Political Science"
 url                      : https://lemarakis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
