@@ -39,7 +39,7 @@ redirect_from:
 > University College Dublin, Ireland, May 2022
 
 > ## Analysis seminar
-> University College Dublin, Ireland, April 2022 and April 2023 (twice)
+> University College Dublin, Ireland, April 2022, April 2023, October 2023 and November 2023 (four times)
 
 > ## Postgraduate Seminar Series
 > University College Dublin, Ireland (held virtually), April 2021
