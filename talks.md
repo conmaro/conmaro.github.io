@@ -9,6 +9,18 @@ redirect_from:
 
 # Conference/Seminar talks:
 
+> ## Analysis Seminar
+> Indiana University Bloomington, USA, March 2024
+
+> ## Analysis Winter Meeting
+> Aristotle University of Thessaloniki, Greece, December 2023
+
+> ## Functional Analysis Seminar
+> University of Lille, France, December 2023
+
+> ## Complex Analysis Seminar - Bench Math Session
+> Jagiellonian University, Poland, December 2023 
+
 > ## Universality, Zeta-Functions, and Chaotic Operators Workshop
 > Centre International de Rencontres Mathématiques, France, August 2023
 
