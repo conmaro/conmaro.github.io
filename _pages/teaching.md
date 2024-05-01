@@ -8,6 +8,7 @@ During my doctoral studies at University College Dublin I have tutored for the f
 - Linear Algebra for Engineers
 - Metric Spaces
 - Group Theory and Applications
+- Linear Algebra for Science
 
 I also tutored for Junior Mathematical Enrichment:
 - advanced mathematics classes for secondary school students
