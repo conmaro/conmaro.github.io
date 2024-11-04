@@ -17,7 +17,7 @@ I am also interested in functional analysis and potential theory.
 
 conmaron@gmail.com
 
-konstantinos.maronikolakis@ucdconnect.ie
+konstantinos@bilkent.edu.tr
 ### Address
 
-UCD School of Mathematics and Statistics, University College Dublin, Belfield, Dublin 4, Ireland
+Department of Mathematics, Bilkent University, 06800 Ankara, Turkey
