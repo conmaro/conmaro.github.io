@@ -13,5 +13,4 @@ During my doctoral studies at University College Dublin I have tutored for the f
 - Group Theory and Applications
 - Linear Algebra for Science
 
-I also tutored for Junior Mathematical Enrichment:
-- advanced mathematics classes for secondary school students
+I also tutored for Junior Mathematical Enrichment which consists of advanced mathematics classes for secondary school students
