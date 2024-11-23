@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/006_Abel_universal_functions_boundary_behaviour_and_Taylor_polynomials
 date: 2023-10-09
 paperurl: 'https://arxiv.org/abs/2310.05611'
-citation: 'with S. Charpentier and M. Manolaki, Rev. Mat. Iberoam., to appear, see also arXiv:2310.05611, 2024.'
+citation: 'with S. Charpentier and M. Manolaki, Rev. Mat. Iberoam., to appear.'
 ---
