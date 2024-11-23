@@ -2,7 +2,6 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-
 ### Current
 For the Fall semester 2024, I am lecturing for the course Calculus I (MATH 101)
 
