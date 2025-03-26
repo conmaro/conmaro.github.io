@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 # Conference/Seminar talks:
+> ## Polynomial approximation and applications to frequent universality
+> Math Seminar, Faculty of Engineering and Natural Sciences, Turkey, March 2025
+
+> ## Polynomial approximation and frequent universality
+> Analysis Seminar, School of Applied Mathematical and Physical Sciences, Greece, March 2025
+
+> ## Weighted polynomial approximation and applications to frequent universality
+> Bench Math Session, Jagiellonian University, Poland, February 2025 
 
 > ## Universal Objects in Complex Analysis
 > Analysis seminar, Middle East Technical University, Turkey, November 2024
@@ -52,10 +60,12 @@ redirect_from:
 ***
 
 # Departmental talks:
+> ## Universality and boundary behaviour of holomorphic functions
+> Analysis seminar, Bilkent University, Turkey, November 2024
 
 > ## Universal Objects in Complex Analysis
 > Analysis seminar, Bilkent University, Turkey, November 2024
-> 
+ 
 > ## Properties of Abel universal functions III: invariance under composition
 > Analysis seminar, University College Dublin, Ireland, November 2023
 
