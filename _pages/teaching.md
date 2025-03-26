@@ -8,6 +8,7 @@ For the Spring semester 2024, I am lecturing for the course Calculus II (MATH 10
 ### Previous
 At Bilkent University, I have lectured for:
 - Calculus I (MATH 101)
+
 During my doctoral studies at University College Dublin I have tutored for the following modules:
 - Linear Algebra for Mathematical and Physical Sciences
 - Linear Algebra for Engineers
