@@ -9,10 +9,10 @@ redirect_from:
 
 # Conference/Seminar talks:
 > ## Polynomial approximation and applications to frequent universality
-> Math Seminar, Faculty of Engineering and Natural Sciences, Turkey, March 2025
+> Math Seminar, Sabanci University, Turkey, March 2025
 
 > ## Polynomial approximation and frequent universality
-> Analysis Seminar, School of Applied Mathematical and Physical Sciences, Greece, March 2025
+> Analysis Seminar, National Technical University of Athens, Greece, March 2025
 
 > ## Weighted polynomial approximation and applications to frequent universality
 > Bench Math Session, Jagiellonian University, Poland, February 2025 
