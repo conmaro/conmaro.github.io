@@ -10,7 +10,7 @@ redirect_from:
 # Conference/Seminar talks:
 > ## Incomplete polynomial approximation and frequent universality
 > Advanced Courses in Operator Theory and Complex Analysis, Université Clermont Auvergne, France, June 2025
-> 
+
 > ## Polynomial approximation and applications to frequent universality
 > Math Seminar, Sabanci University, Turkey, March 2025
 
