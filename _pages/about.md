@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Instructor and researcher at Bilkent University. 
+I am a Visiting Assistant Professor and researcher at Bilkent University. 
 My research area lies mostly in complex analysis. More specifically, I have studied the generic behaviour of holomorphic functions with respect to their partial sums and boundary properties. 
 I am also interested in functional analysis and potential theory.
 
