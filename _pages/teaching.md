@@ -3,11 +3,12 @@ permalink: /teaching/
 title: "Teaching"
 ---
 ### Current
-For the Spring semester 2025, I am lecturing for the course Calculus II (MATH 102)
+For the Fall semester 2025, I am lecturing Calculus I (MATH 101)
 
 ### Previous
 At Bilkent University, I have lectured for:
 - Calculus I (MATH 101)
+- Calculus II (MATH 102)
 
 During my doctoral studies at University College Dublin I have tutored for the following modules:
 - Linear Algebra for Mathematical and Physical Sciences
