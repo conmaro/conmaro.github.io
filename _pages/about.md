@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 I am an Assistant Professor at Bilkent University. 
-My research area lies mostly in Complex Analysis anf Functional Analysis. More specifically, I have studied the generic behaviour of holomorphic functions with respect to their partial sums and boundary properties. 
-I am also interested in functional analysis and potential theory.
+My research area lies mostly in Complex Analysis and Functional Analysis. More specifically, I am interested in the following topics:
+* Generic boundary behaviour of partial sums of power series.
+* Boundary behaviour of holomorphic functions.
+* Approximation problems in the complex plane.
+* Dynamics of linear operators.
 
 ## Contact
 ### Email
