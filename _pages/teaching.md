@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 ### Current
-For the Fall semester 2025, I am lecturing Calculus I (MATH 101)
+For the Spring semester 2026, I am lecturing Calculus II (MATH 102)
 
 ### Previous
 At Bilkent University, I have lectured for:
