@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 # Conference/Seminar talks:
+> ## Metric projections and optimal polynomial approximants
+> Bench Math Session, Jagiellonian University, Poland, February 2026
+
+> ## Simultaneous approximation by finite Blaschke products
+> 19th Panhellenic Conference of Mathematical Analysis, National Technical University of Athens, Greece, December 2025
+
+> ## Projections onto invariant subspaces in Hardy spaces
+> Mathematical Analysis Workshop and Popular Science Talks, Deskati, Greece, August 2025
+
 > ## Incomplete polynomial approximation and frequent universality
 > Advanced Courses in Operator Theory and Complex Analysis, Université Clermont Auvergne, France, June 2025
 
