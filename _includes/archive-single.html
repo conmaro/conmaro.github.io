@@ -34,11 +34,15 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+        </h2>
     {% if post.collection == 'publications' %}
     <style>
       .archive__item-title {
         margin-bottom: 0 !important;
+      }
+      .archive__item-title + details,
+      .archive__item-title + p {
+        margin-top: 0 !important;
       }
     </style>
     {% endif %}
