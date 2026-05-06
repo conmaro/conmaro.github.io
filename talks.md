@@ -72,6 +72,12 @@ redirect_from:
 ***
 
 # Departmental talks:
+> ## Approximation by finite Blaschke products
+> Analysis seminar, Bilkent University, Turkey, March 2026
+
+> ## Metric projections in Hardy spaces and optimal polynomial approximants
+> Analysis seminar, Bilkent University, Turkey, October 2025
+
 > ## Universality and boundary behaviour of holomorphic functions
 > Analysis seminar, Bilkent University, Turkey, November 2024
 
