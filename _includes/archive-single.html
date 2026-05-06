@@ -35,6 +35,13 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    {% if post.collection == 'publications' %}
+    <style>
+      .archive__item-title {
+        margin-bottom: 0 !important;
+      }
+    </style>
+    {% endif %}
     
     {% if post.read_time %}
     {% elsif post.read_time and post.collection == 'posts' %}
